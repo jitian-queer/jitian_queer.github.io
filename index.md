@@ -8,3 +8,7 @@
 - ライティング、インタビューを得意としております。
 - 納期遵守、こまめなレスポンスをモットーにしております。
 - 機械翻訳に興味がありプログラミングを基礎から勉強中（翻訳コーディネーター経歴4年、マークアップ・マークダウン程度なら問題なし）。
+
+# Contact
+- [Twitter](https://twitter.com/jitian_queer)
+- [Mail](mailto:jitian.queer@gmail.com)
